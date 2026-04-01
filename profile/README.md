@@ -1,4 +1,6 @@
-# Tablica App
+# eTablica App
 > Our mission is to help people simplify their lives with our cutting edge technology.
 
-Write to `contact@zlatanstajic.com` if you have any questions, ideas or suggestions.
+<img src="../assets/img/logo.svg?v=1" width="300" alt="eTablica Logo">
+
+Visit our website [etablica.rs](https://www.etablica.rs) or write to `hello@etablica.rs` if you have any questions, ideas or suggestions.
